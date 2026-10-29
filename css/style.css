@@ -1,8 +1,6 @@
-	@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap');
 	/*-------------------------------------------------------*/
 		/* Base styles	 */
 	/*-------------------------------------------------------*/
-	
 	html {
 		overflow-y:scroll;
 	}
@@ -10,8 +8,8 @@
 		background-color: #E8E8E8;
 		margin: 0px;
 		padding: 0px;
-		font-family:"Monsieur La Doulaise", cursive;
-		font-size: 24px;
+		font-family:'open Sans', Arial;
+		font-size: 12px;
 	}
 
 		/* Font face */
